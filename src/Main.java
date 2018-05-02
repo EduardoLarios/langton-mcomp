@@ -91,7 +91,7 @@ public class Main {
                 System.out.println(ant.is_black[col][row] ? "#" : " ");
             }
 
-            System.out.println();
+            System.out.println("\n");
         }
 
         try {
